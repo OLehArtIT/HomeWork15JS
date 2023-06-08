@@ -37,7 +37,6 @@ class Car {
     }
   }
 }
-
 const person1 = new Human("Виталий", 25);
 const person2 = new Human("Джейсон", 18);
 const person3 = new Human("Стив", 60);
